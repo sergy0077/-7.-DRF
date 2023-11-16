@@ -1,0 +1,4839 @@
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def debug_task(self):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/__init__.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /favicon.ico
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Watching for file changes with StatReloader
+Not Found: /
+Watching for file changes with StatReloader
+Not Found: /
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+Watching for file changes with StatReloader
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Unauthorized: /api/users/create/
+Bad Request: /api/habits/create/
+Unauthorized: /api/users/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Internal Server Error: /api/habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 30, in __call__
+    if val and val > datetime.time(minute=2):
+TypeError: '>' not supported between instances of 'datetime.timedelta' and 'datetime.time'
+Internal Server Error: /api/habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 30, in __call__
+    if val and val > datetime.time(minute=2):
+TypeError: '>' not supported between instances of 'datetime.timedelta' and 'datetime.time'
+Watching for file changes with StatReloader
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+Bad Request: /api/habits/create/
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+Bad Request: /api/habits/create/
+Watching for file changes with StatReloader
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+Watching for file changes with StatReloader
+Not Found: /accounts/login/
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /users/token/
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 16, in perform_create
+    serializer.save(owner=self.request.user)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 962, in create
+    instance = ModelClass._default_manager.create(**validated_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/query.py", line 656, in create
+    obj = self.model(**kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<User: test@mail.ru>": "Habit.owner" must be a "User" instance.
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/admin.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+Watching for file changes with StatReloader
+Not Found: /docs/4.0/assets/img/favicons/favicon.ico
+Not Found: /docs/4.0/assets/img/favicons/favicon.ico
+Unauthorized: /habits/create/
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+Watching for file changes with StatReloader
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 53, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/celery.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+
+def xstarmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/celery.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/celery.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/celery.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/http/request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/http/request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/http/request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '127.0.0.1:8000'. You may need to add '127.0.0.1' to ALLOWED_HOSTS.
+Bad Request: /
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x10a9ed730>> raised: ImportError("cannot import name 'habit_bot' from 'habits.tasks' (/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py)")
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/fixups/django.py", line 97, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/fixups/django.py", line 137, in validate_models
+    run_checks()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/urls.py", line 42, in check_url_namespaces_unique
+    all_namespaces = _load_all_namespaces(resolver)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/urls.py", line 61, in _load_all_namespaces
+    url_patterns = getattr(resolver, "url_patterns", [])
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gretaabraamyan/django/cp_telegram/config/urls.py", line 39, in <module>
+    path('habits/', include('habits.urls', namespace='habit')),
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/urls.py", line 2, in <module>
+    from habits import views
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 12, in <module>
+    from habits.tasks import habit_bot
+ImportError: cannot import name 'habit_bot' from 'habits.tasks' (/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py)
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Not Found: /apple-touch-icon-precomposed.png
+Not Found: /apple-touch-icon.png
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /users/register/
+Not Found: /users/admin/
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/permissions.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /api/education/lessons/
+Unauthorized: /users/token/
+Not Found: /favicon.ico
+/Users/gretaabraamyan/django/cp_telegram/users/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def check_and_notify_habits():
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def send_telegram_notification(chat_id, text):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def send_telegram_notification(chat_id, text):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def check_and_notify_habits():
+    return 1
+
+Watching for file changes with StatReloader
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def send_telegram_notification(chat_id, text):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def check_and_notify_habits():
+    return 1
+
+Watching for file changes with StatReloader
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def check_and_notify_habits():
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def send_telegram_notification(chat_id, text):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def send_telegram_notification(chat_id, text):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def check_and_notify_habits():
+    return 1
+
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 28, in __call__
+    if val and val > datetime.timedelta(minutes=2):
+TypeError: '>' not supported between instances of 'datetime.time' and 'datetime.timedelta'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 28, in __call__
+    if val and val > datetime.timedelta(minutes=2):
+TypeError: '>' not supported between instances of 'datetime.time' and 'datetime.timedelta'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 28, in __call__
+    if val and val > datetime.timedelta(minutes=2):
+TypeError: '>' not supported between instances of 'datetime.time' and 'datetime.timedelta'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 28, in __call__
+    if val and val > datetime.timedelta(minutes=2):
+TypeError: '>' not supported between instances of 'datetime.time' and 'datetime.timedelta'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 28, in __call__
+    if val and val > datetime.timedelta(minutes=2):
+TypeError: '>' not supported between instances of 'datetime.time' and 'datetime.timedelta'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 30, in __call__
+    if val and datetime.datetime.combine(datetime.date.today(), val) > datetime.datetime.combine(
+TypeError: combine() argument 2 must be datetime.time, not datetime.timedelta
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 30, in __call__
+    if val and datetime.datetime.combine(datetime.date.today(), val) > datetime.datetime.combine(
+TypeError: combine() argument 2 must be datetime.time, not datetime.timedelta
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 47, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 47, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 47, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 40, in __call__
+    val = value.time_to_complete
+AttributeError: 'collections.OrderedDict' object has no attribute 'time_to_complete'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 39, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 43, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 43, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 43, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/users/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /users/token/
+Unauthorized: /users/token/
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /users/token/
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x10cef1880>> raised: ImportError("cannot import name 'check_and_notify_habits' from 'habits.tasks' (/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py)")
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/fixups/django.py", line 97, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/fixups/django.py", line 137, in validate_models
+    run_checks()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/urls.py", line 42, in check_url_namespaces_unique
+    all_namespaces = _load_all_namespaces(resolver)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/urls.py", line 61, in _load_all_namespaces
+    url_patterns = getattr(resolver, "url_patterns", [])
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gretaabraamyan/django/cp_telegram/config/urls.py", line 40, in <module>
+    path('habits/', include('habits.urls', namespace='habit')),
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/urls.py", line 2, in <module>
+    from habits import views
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 9, in <module>
+    from habits.tasks import check_and_notify_habits
+ImportError: cannot import name 'check_and_notify_habits' from 'habits.tasks' (/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py)
+/Users/gretaabraamyan/django/cp_telegram/habits/views.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def habit_bot():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def habit_bot(*args, **kwargs):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot(*args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def habit_bot(*args, **kwargs):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def habit_bot(text, chat_id):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def send_message(text, chat_id):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def create_periodic_tasks():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def send_message(text, chat_id):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def create_periodic_tasks():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /users/token/
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def create_periodic_tasks(text, chat_id):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def create_periodic_tasks(text, chat_id):
+    return 1
+
+Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x10f165820>> raised: TypeError("create_periodic_tasks() missing 2 required positional arguments: 'text' and 'chat_id'")
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/fixups/django.py", line 97, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/fixups/django.py", line 137, in validate_models
+    run_checks()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/checks/urls.py", line 24, in check_resolver
+    return check_method()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 494, in check
+    for pattern in self.url_patterns:
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 715, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/resolvers.py", line 708, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gretaabraamyan/django/cp_telegram/config/urls.py", line 40, in <module>
+    path('habits/', include('habits.urls', namespace='habit')),
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/urls/conf.py", line 38, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/urls.py", line 2, in <module>
+    from habits import views
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/views.py", line 11, in <module>
+    from habits.tasks import create_periodic_tasks
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py", line 31, in <module>
+    create_periodic_tasks.delay()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/app/task.py", line 444, in delay
+    return self.apply_async(args, kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/app/task.py", line 559, in apply_async
+    check_arguments(*(args or ()), **(kwargs or {}))
+TypeError: create_periodic_tasks() missing 2 required positional arguments: 'text' and 'chat_id'
+Signal handler <promise@0x10f147c10 --> <bound method Celery._autodiscover_tasks of <Celery config at 0x10f165100>>> raised: TypeError("create_periodic_tasks() missing 2 required positional arguments: 'text' and 'chat_id'")
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/utils/dispatch/signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/vine/promises.py", line 160, in __call__
+    return self.throw()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/vine/promises.py", line 157, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/app/base.py", line 691, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/app/base.py", line 700, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/app/base.py", line 695, in _autodiscover_tasks_from_names
+    return self.loader.autodiscover_tasks(
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/loaders/base.py", line 220, in autodiscover_tasks
+    mod.__name__ for mod in autodiscover_tasks(packages or (),
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/loaders/base.py", line 246, in autodiscover_tasks
+    return [find_related_module(pkg, related_name) for pkg in packages]
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/loaders/base.py", line 246, in <listcomp>
+    return [find_related_module(pkg, related_name) for pkg in packages]
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/loaders/base.py", line 267, in find_related_module
+    return importlib.import_module(module_name)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1030, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1007, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 986, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 680, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 850, in exec_module
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py", line 31, in <module>
+    create_periodic_tasks.delay()
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/app/task.py", line 444, in delay
+    return self.apply_async(args, kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/celery/app/task.py", line 559, in apply_async
+    check_arguments(*(args or ()), **(kwargs or {}))
+TypeError: create_periodic_tasks() missing 2 required positional arguments: 'text' and 'chat_id'
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def create_periodic_tasks():
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def create_periodic_tasks():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 43, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+Internal Server Error: /habits/create/
+Traceback (most recent call last):
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/django/views/generic/base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/generics.py", line 190, in post
+    return self.create(request, *args, **kwargs)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 428, in run_validation
+    self.run_validators(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/serializers.py", line 461, in run_validators
+    super().run_validators(to_validate)
+  File "/Users/gretaabraamyan/django/cp_telegram/env/lib/python3.9/site-packages/rest_framework/fields.py", line 562, in run_validators
+    validator(value)
+  File "/Users/gretaabraamyan/django/cp_telegram/habits/validators.py", line 43, in __call__
+    time_complete_seconds = time_complete * 60
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'int'
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Bad Request: /habits/create/
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/tasks.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+/Users/gretaabraamyan/django/cp_telegram/habits/validators.py changed, reloading.
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+

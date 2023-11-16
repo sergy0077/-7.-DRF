@@ -1,0 +1,17 @@
+Django~=4.2.6
+django-cors-headers
+djangorestframework~=3.14.0
+django-perms~=2.1.0
+django-filter
+django-celery-beat
+
+psycopg2-binary
+celery~=5.3.4
+redis
+python-dotenv~=1.0.0
+kombu~=5.3.2
+python_telegram_bot
+schedule
+Pillow
+apscheduler
+requests
