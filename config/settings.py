@@ -11,11 +11,8 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 import os
-import ssl
 from datetime import timedelta
 from pathlib import Path
-
-from celery.schedules import crontab
 from dotenv import load_dotenv
 from kombu import Exchange, Queue
 import sys
@@ -36,7 +33,9 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.getenv('DEBUG') == 'True'
 
-ALLOWED_HOSTS = []
+# ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+
 
 # Application definition
 INSTALLED_APPS = [
@@ -46,17 +45,20 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
+    'django_filters',
+    'django_celery_beat',
+    'django_redis',
     'rest_framework',
     'rest_framework_simplejwt',
+    'rest_framework.authtoken',
     'celery',
     'drf_yasg',
-    'django_celery_beat',
     'corsheaders',
 
     'users',
     'habits',
 ]
+
 
 REST_FRAMEWORK = {
     'DEFAULT_FILTER_BACKENDS': (
@@ -73,7 +75,8 @@ REST_FRAMEWORK = {
 
 SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(hours=1),
-    'REFRESH_TOKEN_LIFETIME': timedelta(days=1)
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
+    'AUTH_HEADER_TYPES': ('Bearer',),
 }
 
 MIDDLEWARE = [
@@ -125,6 +128,17 @@ WSGI_APPLICATION = 'config.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'cp_telegram',
+#         'USER': 'cp_telegram',
+#         'PASSWORD': '130468',
+#         'HOST': 'db',
+#         'PORT': '5432',
+#     }
+# }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -135,6 +149,7 @@ DATABASES = {
         'PORT': os.getenv('DB_PORT'),
     }
 }
+
 
 if 'test' in sys.argv or 'test_coverage' in sys.argv:
     DATABASES['default']['ENGINE'] = 'django.db.backends.postgresql'
@@ -190,12 +205,18 @@ CHANNEL_ID = os.getenv('CHANNEL_ID')
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
+
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
 AUTH_USER_MODEL = 'users.User'
 
+AUTHENTICATION_BACKENDS = [
+    'django.contrib.auth.backends.ModelBackend',
+]
+
 # URL-адрес брокера сообщений
-CELERY_BROKER_URL = 'redis://localhost:6379/0'
-CELERY_RESULT_BACKEND = 'redis://localhost:6379/0'
+CELERY_BROKER_URL = 'redis://redis:6379/0'
+CELERY_RESULT_BACKEND = 'redis://redis:6379/0'
 CELERY_ACCEPT_CONTENT = ['json']
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_SERIALIZER = 'json'
@@ -211,19 +232,20 @@ CELERY_BEAT_SCHEDULE = {
         'task': 'habits.tasks.create_periodic_tasks',  # Путь к асинхронной задаче
         'schedule': timedelta(minutes=1),              # Расписание выполнения задачи
         'args': (16, 16),
-    },
+    }
 }
 
 CACHE_ENABLED = os.getenv('CACHE_ENABLED') == 'True'
 
-if CACHE_ENABLED:
-    CACHES = {
-        "default": {
-            "BACKEND": "django.core.cache.backends.redis.RedisCache",
-            "LOCATION": os.getenv('CACHE_LOCATION'),
-            "TIMEOUT": 300
-        }
+CACHES = {
+  'default': {
+    'BACKEND': 'django_redis.cache.RedisCache',
+    'LOCATION': 'redis://redis:6379/1',
+    'OPTIONS': {
+      'CLIENT_CLASS': 'django_redis.client.DefaultClient',
     }
+  }
+}
 
 LOGGING = {
     'version': 1,
@@ -244,4 +266,4 @@ LOGGING = {
 REDIS_HOST = "127.0.0.1"
 REDIS_PORT = "6379"
 
-
+CELERY_BROKER_CONNECTION_RETRY_ON_STARTUP = True

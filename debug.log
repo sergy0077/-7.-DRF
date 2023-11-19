@@ -4837,3 +4837,198 @@ def create_periodic_tasks(*args, **kwargs):
 def xstarmap(task, it):
     return 1
 
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+Connection to Redis lost: Retry (0/20) now.
+Connection to Redis lost: Retry (1/20) in 1.00 second.
+Connection to Redis lost: Retry (2/20) in 1.00 second.
+Connection to Redis lost: Retry (3/20) in 1.00 second.
+Connection to Redis lost: Retry (4/20) in 1.00 second.
+Connection to Redis lost: Retry (5/20) in 1.00 second.
+Connection to Redis lost: Retry (6/20) in 1.00 second.
+Connection to Redis lost: Retry (7/20) in 1.00 second.
+Connection to Redis lost: Retry (8/20) in 1.00 second.
+Connection to Redis lost: Retry (9/20) in 1.00 second.
+Connection to Redis lost: Retry (10/20) in 1.00 second.
+Connection to Redis lost: Retry (11/20) in 1.00 second.
+Connection to Redis lost: Retry (12/20) in 1.00 second.
+Connection to Redis lost: Retry (13/20) in 1.00 second.
+Connection to Redis lost: Retry (14/20) in 1.00 second.
+Connection to Redis lost: Retry (15/20) in 1.00 second.
+Connection to Redis lost: Retry (16/20) in 1.00 second.
+Connection to Redis lost: Retry (17/20) in 1.00 second.
+Connection to Redis lost: Retry (18/20) in 1.00 second.
+Connection to Redis lost: Retry (19/20) in 1.00 second.
+
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+Connection to Redis lost: Retry (0/20) now.
+Connection to Redis lost: Retry (1/20) in 1.00 second.
+Connection to Redis lost: Retry (2/20) in 1.00 second.
+Connection to Redis lost: Retry (3/20) in 1.00 second.
+Connection to Redis lost: Retry (4/20) in 1.00 second.
+Connection to Redis lost: Retry (5/20) in 1.00 second.
+Connection to Redis lost: Retry (6/20) in 1.00 second.
+Connection to Redis lost: Retry (7/20) in 1.00 second.
+Connection to Redis lost: Retry (8/20) in 1.00 second.
+Connection to Redis lost: Retry (9/20) in 1.00 second.
+Connection to Redis lost: Retry (10/20) in 1.00 second.
+Connection to Redis lost: Retry (11/20) in 1.00 second.
+Connection to Redis lost: Retry (12/20) in 1.00 second.
+Connection to Redis lost: Retry (13/20) in 1.00 second.
+Connection to Redis lost: Retry (14/20) in 1.00 second.
+Connection to Redis lost: Retry (15/20) in 1.00 second.
+Connection to Redis lost: Retry (16/20) in 1.00 second.
+Connection to Redis lost: Retry (17/20) in 1.00 second.
+Connection to Redis lost: Retry (18/20) in 1.00 second.
+Connection to Redis lost: Retry (19/20) in 1.00 second.
+
+Retry limit exceeded while trying to reconnect to the Celery redis result store backend. The Celery application must be restarted.
+
+Watching for file changes with StatReloader
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+Connection to Redis lost: Retry (0/20) now.
+Connection to Redis lost: Retry (1/20) in 1.00 second.
+Connection to Redis lost: Retry (2/20) in 1.00 second.
+Connection to Redis lost: Retry (3/20) in 1.00 second.
+Connection to Redis lost: Retry (4/20) in 1.00 second.
+Connection to Redis lost: Retry (5/20) in 1.00 second.
+Connection to Redis lost: Retry (6/20) in 1.00 second.
+Connection to Redis lost: Retry (7/20) in 1.00 second.
+Connection to Redis lost: Retry (8/20) in 1.00 second.
+Connection to Redis lost: Retry (9/20) in 1.00 second.
+Connection to Redis lost: Retry (10/20) in 1.00 second.
+Connection to Redis lost: Retry (11/20) in 1.00 second.
+Connection to Redis lost: Retry (12/20) in 1.00 second.
+
+def group(self, tasks, result, group_id, partial_args, add_to_parent=0):
+    return 1
+
+
+def xmap(task, it):
+    return 1
+
+
+def backend_cleanup():
+    return 1
+
+
+def create_periodic_tasks(*args, **kwargs):
+    return 1
+
+
+def chain(*args, **kwargs):
+    return 1
+
+
+def xstarmap(task, it):
+    return 1
+
+
+def accumulate(self, *args, **kwargs):
+    return 1
+
+
+def chord(self, header, body, partial_args=0, interval=1, countdown=2, max_retries=3, eager=4, **kwargs):
+    return 1
+
+
+def chunks(task, it, n):
+    return 1
+
+
+def unlock_chord(self, group_id, callback, interval=0, max_retries=1, result=2, Result=3, GroupResult=4, result_from_tuple=5, **kwargs):
+    return 1
+
+Watching for file changes with StatReloader
+/code/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/code/config/settings.py changed, reloading.
+/Users/gretaabraamyan/django/cp_telegram/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/code/config/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico

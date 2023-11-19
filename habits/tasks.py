@@ -28,6 +28,3 @@ def create_periodic_tasks(*args, **kwargs):
         data = requests.get(f'https://api.telegram.org/bot{bot_token}/sendMessage', params=params).json()
         print(data)
 
-
-create_periodic_tasks.delay()
-
